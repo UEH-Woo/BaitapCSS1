@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Arial", Arial, Helvetica, sans-serif, serif, sans-serif;
+}
+h1 {
+  color: bisque;
+  text-align: center;
+  font-size: 2em;
+  font-style: italic;
+}
+h2 {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin: 20px;
+  color: bisque;
+}
+h3 {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin: 20px;
+  color: bisque;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
